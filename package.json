@@ -1,0 +1,27 @@
+{
+    "name": "bike-repair-website",
+    "version": "1.0.0",
+    "description": "A bike repair website developed with CSS3, media queries, responsive design integration techniques, flex technologies",
+    "scripts": {
+      "start": "lite-server"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/SinemSungur/bike-repair-website"
+    },
+    "keywords": [
+      "css3",
+      "html5",
+      "flex",
+      "responsive-web-design"
+    ],
+    "author": "Sinem Sungur",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/SinemSungur/bike-repair-website"
+    },
+    "homepage": "https://github.com/SinemSungur/bike-repair-website#readme",
+    "dependencies": {
+      "lite-server": "^2.5.4"
+    }
+  }
